@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 🤔 Website：http://data-designer.github.io/
 - 🌈 CSDN：https://blog.csdn.net/weixin_40539952?spm=1001.2101.3001.5343
 - 👯 Wechat：微信公众号搜索：[「Data-Designer」]
+
+<div align=center>
+<img src="./img.jpg" alt="wechat" width="300" height="300" align="bottom" />
+</div>
+
