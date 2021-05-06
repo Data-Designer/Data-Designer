@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 热爱 coding 的算法研究员一枚，欢迎关注/star~
+- 🌱 Python 开发、数据结构、机器学习、深度学习、网络爬虫、面试经验等优质内容，持续输出ing
+- 🤔 Website：http://data-designer.github.io/
+- 🌈 CSDN：https://blog.csdn.net/weixin_40539952?spm=1001.2101.3001.5343
+- 👯 Wechat：微信公众号搜索：[「JackCui-AI」]
