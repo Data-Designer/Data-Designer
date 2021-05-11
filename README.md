@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 - 🌈 CSDN：https://blog.csdn.net/weixin_40539952?spm=1001.2101.3001.5343
 - 👯 Wechat：微信公众号搜索：[「Data-Designer」]
 
+<div>
+<p>
+  <a href="https://github.com/shenweichen">
+  <img src="https://github-readme-stats.vercel.app/api?username=Data-Designer&show_icons=true&theme=default&hide=contribs,issues" />
+  </a>
+</p>
+</div>
 <div align=center>
 <img src="./img.jpg" alt="wechat" width="300" height="300" align="bottom" />
 </div>
