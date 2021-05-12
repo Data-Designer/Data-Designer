@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 <div>
 <p>
-  <a href="https://github.com/shenweichen">
+  <a href="https://github.com/Data-Designer">
   <img src="https://github-readme-stats.vercel.app/api?username=Data-Designer&show_icons=true&theme=default&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-Designer&layout=compact" />
   </a>
 </p>
 </div>
