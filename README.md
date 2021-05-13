@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 <div align=center>
 <img src="./img.jpg" alt="wechat" width="300" height="300" align="bottom" />
 </div>
-
