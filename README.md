@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 👯 Wechat：微信公众号搜索：[「Data-Designer」]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Data-Designer)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Data-Designer)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
 <p>
   <a href="https://github.com/Data-Designer">
