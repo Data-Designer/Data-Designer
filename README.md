@@ -21,15 +21,16 @@ Here are some ideas to get you started:
 - 🌈 CSDN：https://blog.csdn.net/weixin_40539952?spm=1001.2101.3001.5343
 - 👯 Wechat：微信公众号搜索：[「Data-Designer」]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Data-Designer)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Data-Designer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
 <p>
   <a href="https://github.com/Data-Designer">
-  <img src="https://github-readme-stats.vercel.app/api?username=Data-Designer&show_icons=true&theme=default&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Data-Designer&show_icons=true&theme=default&hide=contribs,issues"/>
   </a> 
   <a href="https://github.com/Data-Designer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-Designer&layout=compact" />
+  </a>
+  <a href="https://github.com/Data-Designer">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Data-Designer&theme=react-dark" />
   </a>
 </p>
 </div>
