@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 Wechat：微信公众号搜索：[「Data-Designer」]
 
 <div>
-<p>
+<p align="center">
   <a href="https://github.com/Data-Designer">
   <img src="https://github-readme-stats.vercel.app/api?username=Data-Designer&show_icons=true&theme=default&hide=contribs,issues"/>
   </a> 
