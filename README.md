@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ 江苏人, TJU Master, HKUST Phd Candidate, 目前居住于深圳
+- ⚡ 江苏人, TJU Master, HKUST Phd Student, 目前居住于深圳
 - 🔭 热爱 coding 的算法研究员一枚，欢迎关注/star~
 - 🌱 Python 开发、数据结构、机器学习、深度学习、网络爬虫、面试经验等优质内容，持续输出ing
 - 🤔 Website：http://data-designer.github.io/
